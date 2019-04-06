@@ -1,0 +1,17 @@
+.home2 header {
+	background:rgba(0,0,0,0);
+	position:fixed;
+}		
+.home2 #menu > ul > li > a {
+	color: #fff;
+}
+.home2 #menu ul li:hover a, .home2 .header.sticky #menu ul > li:hover > a, .home2 #menu > ul > li.active > a {
+	color: #e64e04;
+}	
+.home2 .banner2{
+	height: 100vh;
+}
+.home2 .banner2 .banner_bg > img{
+	height: 100vh;
+	width: 100vw;
+}
